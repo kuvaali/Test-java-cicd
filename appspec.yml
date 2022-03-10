@@ -1,0 +1,5 @@
+version: 0.0
+os: linux
+files:
+  - source: ./javaHelloWorld.war
+    destination: /web/glassfish4/glasfish/doamins/domain1/autodeploy
