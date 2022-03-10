@@ -18,4 +18,3 @@ artifacts:
   files:
     - target/javaHelloWorld.war
     - appspec.yml
-  discard-paths: yes
