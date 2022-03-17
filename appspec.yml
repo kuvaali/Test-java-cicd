@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: ./target/HelloWorld-1.0-SNAPSHOT.war
     destination: /web/glassfish4/glasfish/domains/domain1/autodeploy
